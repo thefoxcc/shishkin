@@ -1,6 +1,6 @@
 import telebot, wikipedia, re
 
-bot = telebot.TeleBot('Здесь впиши токен, полученный от @botfather')
+bot = telebot.TeleBot('1063681375:AAH9Lt7gl25J1tkJCsS_qPkV1_USntJI2ms')
 wikipedia.set_lang("ru, en")
 def getwiki(s):
     try:
