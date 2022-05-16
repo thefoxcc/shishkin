@@ -132,4 +132,4 @@ print_matrix(AF,"(K * A) * F + K * F^T",time_next-time_prev)
     
       finish = time.time()
       result = finish - start
-      print("Program time: " + str(result) + " seconds.")    
+      print("Program time: " + str(result) + " seconds.")     
