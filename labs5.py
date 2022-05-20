@@ -1,7 +1,6 @@
 import numpy as np
 import random
 import time
- 
       print (time.ctime())
 N = int(input("Введите N > 3\n"))
     while N < 4:
